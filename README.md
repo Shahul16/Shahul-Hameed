@@ -1,19 +1,15 @@
 ![logo](https://github.com/Shahul16/Shahul16/blob/main/Black%20Technology%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm Shahul Bin Thavakkal Al Hatem</h1>
-<h3 align="center">A Passionate Software Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Shahul Hameed</h1>
+<h3 align="center">Software Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahul16&label=Profile%20views&color=0e75b6&style=flat" alt="shahul16" /> </p>
-
-<p align="left"> <a href="https://twitter.com/shahuloff_16" target="blank"><img src="https://img.shields.io/twitter/follow/shahuloff_16?logo=twitter&style=for-the-badge" alt="shahuloff_16" /></a> </p>
 
 - 🔭 I’m currently working on [#CodeAlpha](https://github.com/Shahul16)
 
-- 🌱 I’m currently learning **M.B.A System Management**
+- 🌱 I’m currently Studying **MBA in Systems **
 
 - 👨‍💻 All of my projects are available at [shahul16.github.io/](shahul16.github.io/)
 
 - 📫 How to reach me **Shahulofficial16@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1hbu-LQwts38qVvG26P_V67wSWNRaV1jkBehrfN6Waz8/edit?usp=drive_link](https://docs.google.com/document/d/1hbu-LQwts38qVvG26P_V67wSWNRaV1jkBehrfN6Waz8/edit?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
