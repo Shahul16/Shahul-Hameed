@@ -1,7 +1,6 @@
 ![logo](https://github.com/Shahul16/Shahul16/blob/main/Black%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shahul Bin Thavakkal Al Hatem</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/TCo3GTRdp21vNTXf8">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahul16&label=Profile%20views&color=0e75b6&style=flat" alt="shahul16" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shahuloff_16" target="blank"><img src="https://img.shields.io/twitter/follow/shahuloff_16?logo=twitter&style=for-the-badge" alt="shahuloff_16" /></a> </p>
